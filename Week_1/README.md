@@ -37,6 +37,10 @@ Closure Reading List
 
 		http://javascriptissexy.com/understand-javascript-closures-with-ease/
 
+		http://stewd.io/javascript/02-2-closure.html
+
+		http://stewd.io/javascript/05-1-inheritance.html
+
 		http://benalman.com/news/2010/11/immediately-invoked-function-expression/
 
 		http://javascriptweblog.wordpress.com/2010/10/25/understanding-javascript-closures/
@@ -50,3 +54,5 @@ Closure Reading List
 		https://medium.com/@dis_is_patrick/practical-uses-for-closures-c65640ae7304
 
 		http://veerasundar.com/blog/2013/08/javascript-closure-examples/
+
+		http://iam.colum.edu/Jon.Petto/classes/introtojs/week14/
