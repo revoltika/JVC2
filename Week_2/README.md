@@ -4,7 +4,7 @@ JVC2 Week_1
 Object Oriented Programming
 
 	This week the focus is on OOP and the MVC model, there are important aspects of the MVC model
-	like inheritance , classing , 
+	like inheritance , classing , and seperation of concerns.
 
 
 
