@@ -17,6 +17,12 @@ Syllabus
 		Assignment Due Dates, Tool set , Installation questions,
 		Syllabus Adjustment.
 
+	Week 1
+
+		Prototype and Closures, in depth review of these two Javascript tools,
+		Comparison of Classes and Javascript Prototyped Objects. Use cases for
+		Closures and Importance in Organization of code.
+
 
 Tools for Program
 

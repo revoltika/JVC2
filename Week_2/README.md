@@ -7,7 +7,6 @@ Object Oriented Programming
 	like inheritance , classing , and seperation of concerns.
 
 
-
 Inheritance Reading List
 
 	Presentations
