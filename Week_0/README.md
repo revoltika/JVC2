@@ -23,7 +23,7 @@ Syllabus
 		Comparison of Classes and Javascript Prototyped Objects. Use cases for
 		Closures and Importance in Organization of code.
 
-	Week 1
+	Week 2
 
 		Inheritence and MVC principles, an analysis on Javascript Inheritence and
 		classical Inheritence. A break down of Model-View-Control and the meaning
