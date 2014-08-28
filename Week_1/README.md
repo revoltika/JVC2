@@ -35,6 +35,8 @@ Closure Reading List
 
 	Articles
 
+		http://www.crockford.com/javascript/private.html
+
 		http://javascriptissexy.com/understand-javascript-closures-with-ease/
 
 		http://stewd.io/javascript/02-2-closure.html

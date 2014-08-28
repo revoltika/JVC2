@@ -19,6 +19,8 @@ Inheritance Reading List
 
 	Articles
 
+		http://www.crockford.com/javascript/inheritance.html
+
 		http://stewd.io/javascript/05-1-inheritance.html
 
 		https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
