@@ -19,6 +19,8 @@ Inheritance Reading List
 
 	Articles
 
+		http://phrogz.net/JS/classes/OOPinJS2.html
+
 		http://www.crockford.com/javascript/inheritance.html
 
 		http://stewd.io/javascript/05-1-inheritance.html

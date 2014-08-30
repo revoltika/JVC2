@@ -18,6 +18,8 @@ Prototype Reading List
 
 	Articles
 
+		http://phrogz.net/JS/classes/OOPinJS.html
+
 		http://tobyho.com/2010/11/22/javascript-constructors-and/
 
 		http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/
@@ -34,6 +36,8 @@ Prototype Reading List
 Closure Reading List
 
 	Articles
+
+		http://markdaggett.com/blog/2013/02/25/getting-closure/
 
 		http://www.crockford.com/javascript/private.html
 
