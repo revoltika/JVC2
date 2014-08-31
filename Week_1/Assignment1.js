@@ -1,6 +1,5 @@
 // Assignment 1 : Create A Restaurant Object
 
-
 	/* 
 
 	Create a new Object to encapsulate all restaurant functions and properties ,
@@ -64,6 +63,20 @@
 	carlsbad.makeFood(); // "Burrito was made."
 
 	laJolla.makeFood();  // "Food was made."
+
+
+	/*
+
+	13 - Figure out how to make all restaurants be able to add a new employee,
+		 including restaurants that have not yet been instantiated, ie modify the
+		 base class. The way to add a new employee should be through a public
+		 method, called, "addEmployee", it should accept a parameter of a name
+
+	*/
+
+	oceanside.addEmployee("Joel");
+
+
 
 
 
